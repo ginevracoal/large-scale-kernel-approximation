@@ -1,0 +1,6 @@
+*.pickle
+code/__pycache__/*
+presentation/presentation_cache/*
+presentation/presentation_files/*
+presentation/.Rhistory
+presentation/.Rproj.user/*
